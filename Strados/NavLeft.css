@@ -1,0 +1,49 @@
+
+
+header#page_header nav ul li{
+    list-style:none;
+    
+}
+
+
+
+.abovelink{
+    
+   
+    text-decoration: none;
+    float:right;
+    height: 10px;
+    line-height:40px;
+    padding: 0 18px;
+    margin: 0 0px;
+   
+ 
+    
+    border-top-left-radius: 19px;
+    border-top-right-radius: 19px;
+    background-color: #331200 ;
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+    .abovelink    a:hover{
+            color:white;
+           
+    
+           
+              text-shadow: 1px 1px 2px gray, 0 0 25px white, 0 0 30px gold;
+       
+            
+    }
+
+
+
+
+
+
+
+
+
